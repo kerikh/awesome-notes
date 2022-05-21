@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_notes=self.webpackChunkawesome_notes||[]).push([[7182],{5257:function(e){e.exports=JSON.parse('{"label":"Go","permalink":"/awesome-notes/tags/go","allTagsPath":"/awesome-notes/tags","count":1,"items":[{"id":"language/go/goBasicNotes","title":"Go Basic Notes","description":"CLI","permalink":"/awesome-notes/language/go/goBasicNotes"}]}')}}]);
